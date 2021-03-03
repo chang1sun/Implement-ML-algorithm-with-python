@@ -1,1 +1,1 @@
-### Use numpy and matpoltlib to implement part of ML algorithms.
+### Use numpy and matpoltlib to implement parts of ML algorithms.
